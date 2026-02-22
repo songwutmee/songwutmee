@@ -49,4 +49,6 @@ Rhythm prototype using `AudioSettings.dspTime` for accurate note timing.
 ## 📫 Contact
 
 - Portfolio: https://songwutportfolio.carrd.co    
-- LinkedIn: https://linkedin.com/in/songwut-meesema  
+- LinkedIn: https://linkedin.com/in/songwut-meesema
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=songwutmee&show_icons=true&theme=tokyonight&hide_border=true)
