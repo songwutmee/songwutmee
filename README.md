@@ -5,7 +5,7 @@ I enjoy building modular, event-driven gameplay systems in Unity (C#), and I'm p
 
 I'm also exploring **HLSL, Shader Graph, and technical art workflows**, aiming to bridge gameplay systems and visual presentation.
 
-Outside of development, I'm a huge fan of 🎲 **TRPGs** — I love system-driven storytelling and emergent gameplay mechanics.
+Outside of development, I'm a huge fan of 🎲 **TRPGs**  I love system-driven storytelling and emergent gameplay mechanics.
 
 ---
 
