@@ -1,15 +1,15 @@
-# Hi, I'm Songwut 👋
+# Hi, I'm Songwut Meesema👋
 
 I'm a third-year Interactive and Game Design student focused on gameplay programming and system design.  
 I enjoy building modular, event-driven gameplay systems in Unity (C#), and I'm particularly interested in clean architecture and maintainable code.
 
 I'm also exploring **HLSL, Shader Graph, and technical art workflows**, aiming to bridge gameplay systems and visual presentation.
 
-Outside of development, I'm a huge fan of 🎲 **TRPGs**  I love system-driven storytelling and emergent gameplay mechanics.
+Outside of development, I'm a huge fan of  **TRPGs**. I love system-driven storytelling and enjoy socializing with people.
 
 ---
 
-## 🎮 Game Development
+## Game Development
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -18,7 +18,7 @@ Outside of development, I'm a huge fan of 🎲 **TRPGs**  I love system-driven s
 
 ---
 
-## 🧠 Systems I Work With
+## Systems I Work With
 
 ![Event Driven](https://img.shields.io/badge/Event_Driven-1E1E1E?style=for-the-badge)
 ![State Pattern](https://img.shields.io/badge/State_Pattern-2E8B57?style=for-the-badge)
@@ -27,7 +27,17 @@ Outside of development, I'm a huge fan of 🎲 **TRPGs**  I love system-driven s
 
 ---
 
-## 🌱 Currently Learning
+## Other Tools
+
+![Maya](https://img.shields.io/badge/Maya-00ADEF?style=for-the-badge&logo=autodesk&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+![After Effects](https://img.shields.io/badge/After_Effects-00005B?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+---
+
+## Currently Learning
 
 - Writing custom shaders with HLSL  
 - Rendering pipeline basics  
@@ -35,7 +45,7 @@ Outside of development, I'm a huge fan of 🎲 **TRPGs**  I love system-driven s
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### ShibaFarm
 Modular farming + debt system built with event-driven architecture.  
@@ -48,7 +58,5 @@ Rhythm prototype using `AudioSettings.dspTime` for accurate note timing.
 
 ## 📫 Contact
 
-- Portfolio: https://songwutportfolio.carrd.co    
-- LinkedIn: https://linkedin.com/in/songwut-meesema
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=songwutmee&show_icons=true&theme=tokyonight&hide_border=true)
+- Portfolio: https://songwutportfolio.carrd.co  
+- LinkedIn: https://linkedin.com/in/songwut-meesema  
