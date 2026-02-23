@@ -24,6 +24,7 @@ Outside of development, I'm a huge fan of  **TRPGs**. I love system-driven story
 ![State Pattern](https://img.shields.io/badge/State_Pattern-2E8B57?style=for-the-badge)
 ![Object Pooling](https://img.shields.io/badge/Object_Pooling-4682B4?style=for-the-badge)
 ![ScriptableObjects](https://img.shields.io/badge/ScriptableObjects-FFB400?style=for-the-badge)
+![UniTask](https://img.shields.io/badge/UniTask-FF4F4F?style=for-the-badge)
 
 ---
 
