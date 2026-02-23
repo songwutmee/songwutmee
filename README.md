@@ -13,8 +13,8 @@ Outside of development, I'm a huge fan of  **TRPGs**. I love system-driven story
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![URP](https://img.shields.io/badge/Unity_URP-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge)
+![Shader Graph](https://img.shields.io/badge/Shader_Graph-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
