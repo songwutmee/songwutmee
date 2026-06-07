@@ -54,7 +54,7 @@ Grew up on story-heavy TRPGs. Probably explains a lot.
 | [🌾 ShibaFarm](https://github.com/songwutmee) | Farming sim with event-driven economy, targeting Steam | `Unity` `C#` |
 | [🎵 VeilTempo](https://github.com/songwutmee) | GGJ2026 rhythm game with frame-perfect audio sync | `Unity` `UniTask` |
 | [🔪 CrossSectionURP](https://github.com/songwutmee) | Shader-only tech demo: SDF + object-space clipping in URP | `HLSL` `SDF` `Shader Graph`|
-| [🏙 Shift25](https://github.com/songwutmee) | Mini-thesis: procedural loop, NavMesh NPCs, PSX shaders, editor tools | `Unity` `PSX` |
+| [🏙 Shift25](https://github.com/songwutmee) | Procedural loop, NavMesh NPCs, PSX shaders, editor tools | `Unity` `PSX` `HLSL`|
 
 ---
 
