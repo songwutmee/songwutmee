@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Songwut Meesema
 
-Unity developer with a growing interest in shaders and tech art.
+Game developer with a growing interest in shaders and tech art.
 I like building systems that feel good to work with, and visuals that have a reason behind them.
 Grew up on story-heavy TRPGs. Probably explains a lot.
 
