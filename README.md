@@ -50,11 +50,11 @@ Grew up on story-heavy TRPGs. Probably explains a lot.
 
 | Project | Description | Tags |
 |---|---|---|
-| [🌊 ToonWater Shader](https://github.com/songwutmee) | Stylized URP water — depth-based foam, distortion, wave vertex offset | `HLSL` `URP` |
-| [🌾 ShibaFarm](https://github.com/songwutmee) | Farming sim with event-driven economy, targeting Steam | `Unity` `C#` |
-| [🎵 VeilTempo](https://github.com/songwutmee) | GGJ2026 rhythm game with frame-perfect audio sync | `Unity` `UniTask` |
-| [🔪 CrossSectionURP](https://github.com/songwutmee) | Shader-only tech demo: SDF + object-space clipping in URP | `HLSL` `SDF` `Shader Graph`|
-| [🏙 Shift25](https://github.com/songwutmee) | Procedural loop, NavMesh NPCs, PSX shaders, editor tools | `Unity` `PSX` `HLSL`|
+| [🌊 ToonWater Shader](https://github.com/songwutmee/WaterShader) | Stylized URP water — depth-based foam, distortion, wave vertex offset | `HLSL` `URP` |
+| [🌾 ShibaFarm](https://github.com/songwutmee/ShibaFarm) | Farming sim with event-driven economy, targeting Steam | `Unity` `C#` |
+| [🎵 VeilTempo](https://github.com/songwutmee/GlobalGameJam2026) | GGJ2026 rhythm game with frame-perfect audio sync | `Unity` `UniTask` |
+| [🔪 CrossSectionURP](https://github.com/songwutmee/CrossSection_URP) | Shader-only tech demo: SDF + object-space clipping in URP | `HLSL` `SDF` `Shader Graph`|
+| [🏙 Shift25](https://github.com/songwutmee/Shift25) | Procedural loop, NavMesh NPCs, PSX shaders, editor tools | `Unity` `PSX` `HLSL`|
 
 ---
 
